@@ -204,12 +204,12 @@ nav {
 
 .footer-content2 {
     display: flex;
-    justify-content: space-between;
+    gap:30px;
 }
 
 .footer-content--ul {
     padding: 0;
-    
+   
 }
 
 
